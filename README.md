@@ -4,16 +4,16 @@ A brief description of the project goes here.
 
 ## Overview
 
-- • Project purpose
-- • Key features
-- • Technologies used
+- Project purpose
+- Key features
+- Technologies used
 
 ## Installation
 
 ### Prerequisites
 
-- Node.js 15+ (or newer)
-- npm or yarn
+- Node.js 15+ (or newer)
+- npm or yarn
 
 ### Steps
 
@@ -42,4 +42,4 @@ Feel free to submit pull requests or report issues.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Elastic License.
