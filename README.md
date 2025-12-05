@@ -4,16 +4,16 @@ A brief description of the project goes here.
 
 ## Overview
 
-- Project purpose
-- Key features
-- Technologies used
+- • Project purpose
+- • Key features
+- • Technologies used
 
 ## Installation
 
 ### Prerequisites
 
-- Node.js 15+ (or newer)
-- npm or yarn
+- Node.js 15+ (or newer)
+- npm or yarn
 
 ### Steps
 
